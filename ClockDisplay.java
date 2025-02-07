@@ -17,6 +17,40 @@ public class ClockDisplay
     private NumberDisplay hours;
     private NumberDisplay minutes;
     private String displayString;    // simulates the actual display
+    /* 00:00 is a default time.
+     * 30) private Rectangle window;
+            window = new Rectangle (4,6);
+     * 29) 60 times. By using the method called void setTime.
+     * 31)Constructor for ClockDisplay objects. This constructor
+     * creates a new clock set at the time specified by the 
+     * parameters.
+     * 32) It's because you are creating the time adn it doesn't have to update anymore.
+     * 33)
+     * 
+     *          p1.print("filename",true);
+     *          p2.print("file2",false);
+     *          int status = p1.getStatus(3);
+     *          
+     *          
+     *34) It allows the Picture object to have 2 square, 1 Triangle and a circle.
+     *35) 
+     *36)No
+     *37)
+     *38)
+     *
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     */
+    
+    
+    
     
     /**
      * Constructor for ClockDisplay objects. This constructor 
